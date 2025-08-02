@@ -4,18 +4,7 @@
 
 ForoHub es una API REST para un foro en línea donde los usuarios pueden autenticarse y realizar operaciones CRUD (crear, leer, actualizar y eliminar) sobre tópicos de discusión. Todos los endpoints están protegidos mediante autenticación con JWT.
 
----
 
-## Tecnologías
-
-- Java 17+
-- Spring Boot
-- Spring Security
-- JWT (JSON Web Token)
-- H2 / PostgreSQL
-- Maven
-
----
 
 ## Autenticación
 
